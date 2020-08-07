@@ -132,7 +132,7 @@
 <div class="jumbotron">
     <!-- start client -->
 <div class="jumbotron jumbotron-fluid mb-0">
-    <h1 align="center" class="main-font" style="margin-bottom: 20px;">CLIENTS</h1>
+    <h1 align="center" class="main-font" style="margin-bottom: 20px;">お客様の声</h1>
     <div class="carousel slide text-center" data-ride="carousel" id="myclient">
         <ol class="carousel-indicators">
                 <li data-target="#myclient active" data-slide-to="0"></li>
