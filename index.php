@@ -15,12 +15,12 @@
        
         <!-- CSS LINK -->
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-        <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
-        <link rel="stylesheet" type="text/css" href="css/internal.css">
-        <link rel="stylesheet" type="text/css" href="css/responsive.css">
-        <link rel="stylesheet" type="text/css" href="css/animate.css">
-        <link rel="stylesheet" href="css/slider-pro.min.css"/>
-         <link rel="stylesheet" href="css/jquery.mobile-menu.css"/>
+        <link rel="stylesheet" type="text/css" href="style/bootstrap.css">
+        <link rel="stylesheet" type="text/css" href="style/internal.css">
+        <link rel="stylesheet" type="text/css" href="style/responsive.css">
+        <link rel="stylesheet" type="text/css" href="style/animate.css">
+        <link rel="stylesheet" href="style/slider-pro.min.css"/>
+         <link rel="stylesheet" href="style/jquery.mobile-menu.css"/>
         <link href="https://fonts.googleapis.com/css?family=Righteous&display=swap" rel="stylesheet">
       
      
@@ -105,7 +105,75 @@
     </div>
 </div>
 </div>
+</div>
+<div class="container-fluid">
+    <!-- start services -->
+<div class="jumbotron jumbotron-fluid bg-light" id="services">
+    <h1 align="center" class="main-font font-weight-bold" style="margin-bottom: 20px;">電気の救助隊が選ばれる5つの理由</h1>
+    <div class="row text-center">
+        <div class="col-md-4" id="ic-margin"><i class="fa fa-code codeIcon"></i>
+            <h4 align="center" class="animated fadeI text-warning font-weight-bold">家のプロフェッショナル だから高品質</h4>
+                <span  class="animated fadeIn slower">電気の救助隊は、家に関わるあらゆる工事を行ってきました。なので、洗濯機やエアコンなどの家電から漏電工事まで幅広く対応できます。</span>
+        </div>
+        <div class="col-md-4" id="ic-margin"><i class="fa fa-code codeIcon"></i>
+            <h4 align="center" class="animated fadeIn text-warning font-weight-bold">年間2万件の実績</h4>
+                <span  class="animated fadeIn slower">少数精鋭の職人が、対応可能な範囲で工事の対応をしております。お陰様で年間2万件の実績があります。</span>
+        </div>
+        <div class="col-md-4" id="ic-margin"><i class="fa fa-code codeIcon"></i>
+            <h4 align="center" class="animated fadeIn  text-warning font-weight-bold">地域密着だから安い</h4>
+                <span  class="animated fadeIn slower">少数精鋭の職人達が地域を限って対応をしております。なので、より効率よく工事の対応ができるので、低価格での対応を行えます。</span>
+        </div>
 
+    </div>
+</div>
+<!-- end services -->
+</div>
+
+<div class="jumbotron">
+    <!-- start client -->
+<div class="jumbotron jumbotron-fluid mb-0">
+    <h1 align="center" class="main-font" style="margin-bottom: 20px;">CLIENTS</h1>
+    <div class="carousel slide text-center" data-ride="carousel" id="myclient">
+        <ol class="carousel-indicators">
+                <li data-target="#myclient active" data-slide-to="0"></li>
+                <li data-target="#myclient active" data-slide-to="1"></li>
+                <li data-target="#myclient active" data-slide-to="2"></li>
+            </ol>
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="pics/p1.jpg" height="150" width="150" style="border-radius: 50%;box-shadow: 3px 2px 4px 2px grey">
+                <h3>Shadab Khan</h3>
+                <p> 現地調査に来てくださったスタッフさんがとても親切でした。
+洗濯機の工事で、一体どこに頼めばいいか困っていたのですが、安心感のあるページを拝見し調査を依頼しました。 終始非常に丁寧な対応で、大満足です。ありがとうございました。</p>
+                <br />
+
+            </div>
+            <div class="carousel-item">
+                <img src="pics/p2.jpg" height="150" width="150" style="border-radius: 50%;box-shadow: 3px 2px 4px 2px grey">
+                <h3>Shahid Afridi</h3>
+                <p> エアコンが冷えなくなってきたので、無料のお見積りを依頼しました。
+対応が一番早かったので、アイラホームさんにお願いをしました。 その日からきちんと冷えるようになったので、助かりました。</p>
+                <br />
+
+            </div>
+            <div class="carousel-item">
+                <img src="pics/p3.jpg" height="150" width="150" style="border-radius: 50%;box-shadow: 3px 2px 4px 2px grey">
+                <h3>Shoaib Malik</h3>
+                <p> 電気を切り替えただけで電気代も安くなりキャッシュバックもあり大変助かりました。ありがとうございます！電話の対応や職人さんが親切にご説明してくだり安心して作業を頼めました。</p>
+                <br />
+
+            </div>
+        </div>
+        <a href="#myclient" class="carousel-control-prev" role="button" data-slide="prev">
+        <i class="fa fa-caret-square-o-left" style="color: black;font-size: 25px">  </i>
+        </a>
+        <a href="#myclient" class="carousel-control-next" role="button" data-slide="next">
+        <i class="fa fa-caret-square-o-right" style="color: black;font-size: 25px"> </i>
+        </a>
+    </div>
+</div>
+<!--end client -->
+</div>
 
 
 
