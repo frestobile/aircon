@@ -15,12 +15,12 @@
        
         <!-- CSS LINK -->
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-        <link rel="stylesheet" type="text/css" href="style/bootstrap.css">
-        <link rel="stylesheet" type="text/css" href="style/internal.css">
-        <link rel="stylesheet" type="text/css" href="style/responsive.css">
-        <link rel="stylesheet" type="text/css" href="style/animate.css">
-        <link rel="stylesheet" href="style/slider-pro.min.css"/>
-         <link rel="stylesheet" href="style/jquery.mobile-menu.css"/>
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+        <link rel="stylesheet" type="text/css" href="css/internal.css">
+        <link rel="stylesheet" type="text/css" href="css/responsive.css">
+        <link rel="stylesheet" type="text/css" href="css/animate.css">
+        <link rel="stylesheet" href="css/slider-pro.min.css"/>
+         <link rel="stylesheet" href="css/jquery.mobile-menu.css"/>
         <link href="https://fonts.googleapis.com/css?family=Righteous&display=swap" rel="stylesheet">
       
      
