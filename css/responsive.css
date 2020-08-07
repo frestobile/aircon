@@ -1,0 +1,16 @@
+@media (max-width: 480px){
+	#menu-nav{
+		display: none;
+	}
+	.mobile-menu{
+		display: inline-block;
+	}
+}
+@media (min-width: 480px){
+	.mobile-menu{
+		display: none;
+	}
+}
+
+      <a href="#">Prices: 水漏れ14万円！ ガス充填2万円~2万5千円通常価格の6割以下！</a>
+       <a href="#">Campaign:基本出張作業費0¥ + お友達の紹介で5千円割引</a>

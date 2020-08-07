@@ -1,0 +1,75 @@
+*{
+  box-sizing: border-box;
+}
+/* Style the navbar */
+#navbar {
+  overflow: hidden;
+  background-color: #333;
+  z-index: 5000;
+}
+
+/* Navbar links */
+#navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+/* Page content */
+.content {
+  padding: 16px;
+}
+
+/* The sticky class is added to the navbar with JS when it reaches its scroll position */
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+/* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
+.sticky + .content {
+  padding-top: 60px;
+}
+.right-div{
+  color: white;
+  text-align: center;
+  font-weight: bold !important;
+  background-color: orange;
+  font-size: 17px;
+  position: absolute;
+  top: 15px;
+  right: 2px;
+  border-radius: 50%;
+  padding: 10px;
+}
+#menu-nav{
+  font-size: 20px !important;
+  font-weight: bold !important;
+}
+#menu-nav a{
+  margin-left: 5px;
+}
+#menu-nav a:hover{
+  color: orange !important;
+}
+
+div.carousel {
+  overflow: hidden;
+}
+.mobile-menu ul li a{
+  background-color: black;
+  color: white;
+
+}
+.mobile-menu ul li a{
+  padding-bottom: 15px;
+}
+.down-side{
+  height: 240px;
+  width: 100%;
+  padding-top: 15px;
+}
